@@ -1,0 +1,17 @@
+Package: Friedman
+Title: Tools for Student Data Analysis and Visualization
+Version: 0.0.0.9000
+Authors@R:
+    person("Sydney", "Hardin",
+           role = c("aut", "cre"),
+           email = "snhardin6@usf.edu")
+Description: Provides tools for analyzing and visualizing student data.
+Depends:
+    R (>= 3.1.2)
+Imports:
+    dplyr,
+    ggplot2
+License: CC0
+LazyData: true
+URL: https://github.com/snhardin-6/Friedman
+BugReports: https://github.com/snhardin-6/Friedman/issues
